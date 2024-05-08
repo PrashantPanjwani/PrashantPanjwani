@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrashantPanjwani
-- 👀 I’m interested in Software Engineering Jobs
-- 🌱 I’m currently learning Python & Java
+- 👀 I’m interested in Full Stack Developer Jobs
+- 🌱 I’m currently Java & Java Script
 - 📫 How to reach me: prashantpanjwani1996@gmail.com
 
 <!---
